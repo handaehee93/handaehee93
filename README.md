@@ -1,8 +1,5 @@
-### 안녕하세요
-### 주니어 Front-End 개발자 한대희입니다. 
-### - 적극적인 소통으로 선임분들의 경험과 조언을 듣고 수용하여, 이를 바탕으로 개인적인 성장과 함께 회사의 목표 달성에 기여할 수 있도록 최선을 다하겠습니다.
-### - 좋은 질문을 하는 개발자가 되겠습니다.
-### - 능동적인 자세로 문제를 찾고, 끝까지 책임지는 개발자가 되겠습니다.
+
+
 
 <!--
 **handaehee93/handaehee93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
